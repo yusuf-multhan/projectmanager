@@ -1,2 +1,2 @@
 # projectmanager
-A simple tool to mange the project activities.
+A simple app to manage the project activities.
